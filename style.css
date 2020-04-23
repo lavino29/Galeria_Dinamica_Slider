@@ -75,4 +75,9 @@ body {
 .focus {
   background-color: #9bb2bb;
 }
+@media screen and (max-width: 767px){
+ #images{
+    width: 150px;
+  }
+}
 
